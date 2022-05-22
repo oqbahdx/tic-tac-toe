@@ -1,6 +1,6 @@
 # tictactoe
 
-A new Flutter project tic tac toe
+A simple game you can play with the computer
 
 ## Getting Started
 
